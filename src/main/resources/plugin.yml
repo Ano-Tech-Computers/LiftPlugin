@@ -1,0 +1,8 @@
+name: "${project.name}"
+main: no.atc.floyd.bukkit.lift.LiftPlugin
+version: "${project.version}"
+website: "${project.url}"
+author: FloydATC
+description: "${project.description}"
+
+commands:
